@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Min-Yoongi-is-coding
 - 👀 I’m interested in Automation Test, Selenium, Appium, Python, Web development, Mysql etc'
 - 🌱 I’m currently learning Python and selenium.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 Min-Yoongi-is-coding/Min-Yoongi-is-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
