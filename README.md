@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Min-Yoongi-is-coding
+- 👋 Hi, I’m @Mamali-is-coding
 - 👀 I’m interested in Automation Test, Selenium, Appium, Python, Web development, Mysql etc'
 - 🌱 I’m currently learning Python and selenium.
 
